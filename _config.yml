@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: "Kent.D's blog"
 # Short bio or description (displayed in the header)
-description: "Trying..."
+description: "What kind of person will you be"
 
 #
 # Flags below are optional
@@ -40,7 +40,7 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ll-chen-2
+  zhihu: xx
   email: dktm131@163.com
   facebook:
   flickr:
@@ -67,7 +67,7 @@ gitalk:
   clientID: bd65d5c0df878155b7fa
   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
   repo: tobeingoodmood.github.io
-  owner: Kent.D
+  owner: tobeingoodmood
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: UA-152888548-1
@@ -90,7 +90,7 @@ permalink: /:title/
 paginate_path: /page:num/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v4.0.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -101,6 +101,7 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+    math_engine: mathjax
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -120,5 +121,3 @@ exclude:
   - README.md
   - CNAME
 
-
-theme: jekyll-theme-time-machine
