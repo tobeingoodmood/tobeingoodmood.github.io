@@ -40,7 +40,7 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: xx
+  zhihu: xx #输入你知乎主页链接上的名字 https://https://www.zhihu.com/people/<yourname>
   email: dktm131@163.com
   facebook:
   flickr:
