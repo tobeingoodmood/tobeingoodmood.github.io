@@ -64,13 +64,13 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: cec10323d5fa8a245bf1
+  clientSecret: 2ae008179eaef9d4685e49f3cd9bd4f26a8eb952
   repo: tobeingoodmood.github.io
   owner: tobeingoodmood
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: UA-152888548-1
+# google_analytics: # UA-152888548-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
